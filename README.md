@@ -13,7 +13,7 @@
 <a href="https://instagram.com/pembans7"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/pemba17/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:workpemba@gmail.com?subject=Hi%20Pemba"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+<a href="https://www.upwork.com/freelancers/~010aa1e3b81f7a144b"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=Upwork&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
 
 <br>
