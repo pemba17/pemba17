@@ -24,7 +24,7 @@
 - 🔭 I’m currently working as a Freelancer :grin:
 - 🌱 I’m currently learning Python and Vue.js.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2023 Goals: Contribute to AI Community
+- 🥅 2026 Goals: Contribute to AI Community
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/pemba17/)
 - 🧗 I try to: Go beyond and push the limit
